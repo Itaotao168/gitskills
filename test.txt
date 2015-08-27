@@ -1,4 +1,4 @@
 test
-itaotao good & good
+itaotao good AND good
 itaotao test
 add dev branch
